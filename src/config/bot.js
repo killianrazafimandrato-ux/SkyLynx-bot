@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Joue à [.ggSkyLynx](https://discord.gg/mf2sXaJYwd)",
+        name: "Joue à PTFS SkyLynx RolePlay",
         // Activity type number (0 = Playing).
         type: 0,
       },
